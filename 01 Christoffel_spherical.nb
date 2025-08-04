@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     17857,        494]
-NotebookOptionsPosition[     14904,        431]
-NotebookOutlinePosition[     15300,        447]
-CellTagsIndexPosition[     15257,        444]
+NotebookDataLength[     16958,        472]
+NotebookOptionsPosition[     14225,        413]
+NotebookOutlinePosition[     14621,        429]
+CellTagsIndexPosition[     14578,        426]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -409,24 +409,6 @@ Cell[BoxData[
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
-}, Open  ]],
-
-Cell[CellGroupData[{
-
-Cell["Acknowledgement", "Title",
- CellChangeTimes->{{3.9099397007794485`*^9, 
-  3.9099397040067406`*^9}},ExpressionUUID->"e7770e53-581d-4bbb-b8f7-\
-20335f12c12b"],
-
-Cell["\<\
-By Vincent Shu Yan Lau.
-Original: Leonard Parker, University of Wisconsin, Milwaukee.\
-\>", "Text",
- CellChangeTimes->{{3.909939731866023*^9, 3.9099397677242546`*^9}, {
-   3.9100112168454924`*^9, 3.910011226322627*^9}, 3.9100208811500473`*^9, {
-   3.9119146034991674`*^9, 3.911914614064639*^9}, {3.9627560916558323`*^9, 
-   3.9627560960241985`*^9}, {3.962760603311289*^9, 3.9627606154768677`*^9}},
- FontSize->24,ExpressionUUID->"c4f45fee-4a06-f04c-9886-48615e00f62b"]
 }, Open  ]]
 },
 WindowSize->{949, 527},
@@ -491,10 +473,6 @@ Cell[11956, 350, 2205, 56, 150, "Output",ExpressionUUID->"7d6666ee-9e20-6741-bf7
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[14246, 415, 162, 3, 96, "Title",ExpressionUUID->"e7770e53-581d-4bbb-b8f7-20335f12c12b"],
-Cell[14411, 420, 477, 8, 78, "Text",ExpressionUUID->"c4f45fee-4a06-f04c-9886-48615e00f62b"]
 }, Open  ]]
 }
 ]
