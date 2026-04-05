@@ -29,6 +29,10 @@ The notebooks in this repository compute the core geometric objects of General R
 * `02 Einstein_tensor_Schwarzschild.nb` - Computes the Einstein tensor for Schwarzschild space-time using Schwarzschild coordinates.
 * `......`
 
+## ⚖️ License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
 
 ---
 
