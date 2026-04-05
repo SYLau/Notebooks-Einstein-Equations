@@ -33,6 +33,8 @@ The notebooks in this repository compute the core geometric objects of General R
 
 ## 🚀 Features
 
+* **No Black Boxes:** Every step is printed out clearly. You can see the individual components of the Christoffel symbols and the Riemann tensor, rather than just getting the final answer.
+* **Coordinate Flexibility:** While pre-configured for spherical coordinates $(t, r, \theta, \phi)$, the code structures are modular and can be easily adapted for other metrics (like FLRW or Kerr).
 * **Clean, Readable Tables:** Instead of staring at a massive wall of nested brackets, all finalized tensor elements (like the Christoffel symbols and the Einstein tensor components) are formatted into easily readable grid tables for quick visual verification.
 
 ---
